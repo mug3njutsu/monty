@@ -6,7 +6,7 @@ args_t args;
  * main - entry point
  * @argc: number of args
  * @argv: array of argc
- * Return: success on exit, exit failure otherwise
+ * Return: success || failure
  */
 
 int main(int argc, char **argv)
